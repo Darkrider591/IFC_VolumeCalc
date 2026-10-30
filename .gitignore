@@ -6,6 +6,8 @@ __pycache__/
 # PyInstaller & Build artifacts
 build/
 dist/
+_versions/
+*.exe
 *.spec
 
 # Testing & Coverage
